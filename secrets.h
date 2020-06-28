@@ -1,0 +1,4 @@
+#define SECRETS_WIFI_SSID "SSID"
+#define SECRETS_WIFI_PASSWORD "Password"
+#define SECRETS_MQTT_USERNAME "Username"
+#define SECRETS_MQTT_PASSWORD "Password"
